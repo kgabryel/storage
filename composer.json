@@ -1,0 +1,13 @@
+{
+  "name": "frankie/storage",
+  "autoload": {
+    "psr-4": {
+      "Frankie\\Storage\\": "src"
+    }
+  },
+  "require": {
+    "frankie/response": "^1.0",
+    "ext-fileinfo": "*",
+    "frankie/size-parser": "^1.0"
+  }
+}
